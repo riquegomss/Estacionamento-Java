@@ -9,7 +9,7 @@
 
 ## 📝 Descrição do Projeto
 
-Projeto final Materia LTP-(lingaguem é Tecnícas de programação), é um **Sistema de Gestão de Estacionamento** desenvolvido utilizando a linguagem **Java**. O sistema foi projetado para controlar de forma eficiente o fluxo de veículos, gerir a ocupação de vagas e calcular tarifas de permanência com base em categorias configuradas.
+Projeto final Materia LTP-(lingaguem é Técnicas de programação), é um **Sistema de Gestão de Estacionamento** desenvolvido utilizando a linguagem **Java**. O sistema foi projetado para controlar de forma eficiente o fluxo de veículos, gerir a ocupação de vagas e calcular tarifas de permanência com base em categorias configuradas.
 
 ---
 
